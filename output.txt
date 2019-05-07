@@ -1,648 +1,158 @@
 
 No : 1
-JUDUL : Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com
-LINK : https://www.kompas.com/
-DESC : Kompas.com - Berita Indonesia dan Dunia Terkini Hari Ini, Kabar Harian Terbaru Terpercaya Terlengkap Seputar Politik, Ekonomi, Travel, Teknologi, Otomotif, Bola
+JUDUL : Apple
+LINK : https://www.apple.com/
+DESC : Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.
 
 No : 2
-JUDUL : Berita Terkini, Kabar Terbaru Hari Ini Indonesia dan ...
-LINK : https://www.merdeka.com/
-DESC : merdeka.com - Berita Politik, Ekonomi, Hukum, Kriminal, Olahraga, Sepak Bola, Teknologi, Otomotif, Artis di Indonesia dan Dunia
+JUDUL : Apple Inc. - Wikipedia
+LINK : https://en.wikipedia.org/wiki/Apple_Inc.
+DESC : Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four of technology along with Amazon, Google, and Facebook.
 
 No : 3
-JUDUL : detikcom - Informasi Berita Terupdate Hari Ini
-LINK : https://www.detik.com/
-DESC : Indeks berita terbaru hari ini dari peristiwa, kecelakaan, kriminal, hukum, berita unik, Politik, dan liputan khusus di Indonesia dan Internasional
+JUDUL : Apple (@Apple) | Twitter
+LINK : https://twitter.com/Apple
+DESC : Tweet with a location. You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications.
 
 No : 4
-JUDUL : Berita (@BeritaAfroSoul) | Twitter
-LINK : https://twitter.com/beritaafrosoul
-DESC : The latest Tweets from Berita (@BeritaAfroSoul). God. Music. Love . Africa . for enquiries: bookings@beritaafrosoul.co.za. Africa
+JUDUL : @apple • Instagram photos and videos
+LINK : https://www.instagram.com/apple/
+DESC : 14.5m Followers, 6 Following, 416 Posts - See Instagram photos and videos from @apple
 
 No : 5
-JUDUL : Berita Hari Ini Terbaru Terkini - Kabar Harian Indonesia ...
-LINK : https://www.liputan6.com/
-DESC : Liputan6.com - Berita hari ini Indonesia dan Dunia, kabar terbaru terkini. Situs berita terpercaya dari politik, peristiwa, bisnis, bola, tekno hingga gosip artis
+JUDUL : AAPL Stock Price & News - Apple Inc. - Wall Street Journal
+LINK : https://quotes.wsj.com/AAPL
+DESC : Apple Inc. Stock - AAPL news, historical stock charts, analyst ratings, financials, and today's Apple Inc. stock price. DOW JONES, A NEWS CORP COMPANY News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.
 
 No : 6
-JUDUL : detikcom - Berita Terbaru & Terlengkap - Apps on Google Play
-LINK : https://play.google.com/store/apps/details?id=org.detikcom.rss&hl=en_US
-DESC : detikcom is now out with a new design update. Install or update the latest detikcom app on your device to get the best news reading experience. Latest news, favorite topics, and videos are now all within easy reach. Choose Province on ""Regional News Channel"" make you easy to update regional news.
+JUDUL : AAPL Stock Price - Apple Inc. Stock Quote (U.S.: Nasdaq ...
+LINK : https://www.marketwatch.com/investing/stock/aapl
+DESC : Apple Inc. Apple, Inc. engages in the design, manufacture, and marketing of mobile communication, media devices, personal computers, and portable digital music players.
 
 No : 7
-JUDUL : What Does The Name Berita Mean?
-LINK : https://www.names.org/n/berita/about
-DESC : Fun Facts about the name Berita. How Popular is the name Berita? Berita is the 86,464 th most popular name of all time.; How many people with the first name Berita have been born in the United States?
+JUDUL : Contact - Official Apple Support
+LINK : https://support.apple.com/contact
+DESC : Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.
 
 No : 8
-JUDUL : Okezone | Berita Terbaru | Berita Hari Ini | Berita Online
-LINK : https://www.okezone.com/
-DESC : Okezone Portal Berita Online Indonesia | Berita Terbaru Hari Ini Terkini Terhangat | Nasional Internasional Politik Ekonomi Olahraga Kesehatan Selebritis
+JUDUL : Apple - YouTube
+LINK : https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw
+DESC : Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, A...
 
 No : 9
-JUDUL : Berita Harian - bharian.com.my
-LINK : https://www.bharian.com.my/
-DESC : KOTA BHARU: Tengku Mahkota Kelantan, Dr Tengku Muhammad Faiz Petra, melangsungkan perkahwinannya dengan warga Sweden, Cik Sofie Louise Johansson di Istana Balai Besar Kota Bharu, malam ini.
+JUDUL : Manage your Apple ID
+LINK : https://www.appleid.apple.com/
+DESC : Your Apple ID is the account you use for all Apple services.
 
 No : 10
-JUDUL : Berita - BBC News Indonesia
-LINK : https://www.bbc.com/indonesia
-DESC : Calon presiden Prabowo Subianto menyebut lembaga survei yang mengeluarkan quick count dengan keunggulan sementara Joko Widodo, sebagai 'tukang bohong' dan minta mereka pindah ke Antartika.
+JUDUL : AAPL Stock | APPLE Stock Price Today | Markets Insider
+LINK : https://markets.businessinsider.com/stocks/aapl-stock?op=1
+DESC : Apple's initial public offering in 1980 raised more capital than any other IPO since Ford Motor Company in 1956. What's more, it created instant millionaires out of about 300 employees.
 
 No : 11
-JUDUL : Berita afrosoul - YouTube
-LINK : https://www.youtube.com/user/beritaafrosoul
-DESC : Nguwe Wedwa is Berita's first single of her much anticipated upcoming album due for release this April 2017. Enjoy the unplugged live version of this beautiful, haunting love song.
+JUDUL : United States - Jobs at Apple
+LINK : https://jobs.apple.com/en-us/search?location=united-states-USA
+DESC : Do you love teaching others and empowering them to be even better? As a Market Leader, you enjoy the challenges of developing individuals, building teams, and affecting growth across Apple Stores.
 
 No : 12
-JUDUL : Berita - Utusan Online
-LINK : http://www.utusan.com.my/berita
-DESC : IPOH 18 April - Angkatan Bersatu Anak Muda (Armada) Parti Pribumi Bersatu Malaysia (Bersatu) Perak hari ini membuat laporan polis bagi mendesak pihak berkuasa menyiasat penyebaran satu rakaman audio yang tular dalam media sosial mengenai seorang individu dipercayai exco kerajaan negeri, mengkritik pentadbiran Menteri Besar, Datuk Seri Ahmad Faizal Azumu.
+JUDUL : Apple - Wikipedia
+LINK : https://en.wikipedia.org/wiki/Apple
+DESC : An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.
 
 No : 13
-JUDUL : Berita Gosip Terbaru Dunia Hiburan Indonesia Dan Luar Negeri
-LINK : https://www.liputan6.com/showbiz
-DESC : Berita Hiburan Liputan6.com menyajikan kabar berita gosip artis terbaru, dunia musik KPOP, lagu dan Film Indonesia hari ini
+JUDUL : Apple - Apple Investor News
+LINK : https://investor.apple.com/investor-relations/default.aspx
+DESC : About Apple. The latest press, contact info, jobs, and more.
 
 No : 14
-JUDUL : Berita Hari Ini - Berita Harian Terbaru Terkini dan ...
-LINK : https://www.viva.co.id/
-DESC : Situs Berita harian terkini yang menyajikan berita hari ini dan kabar terbaru seputar politik hingga berita lifestyle dan olahraga
+JUDUL : Apple Support | Verizon Wireless
+LINK : https://www.verizonwireless.com/support/apple/
+DESC : Get support for any of your Apple devices, including step-by-step instructions, interactive simulators, videos and more.
 
 No : 15
-JUDUL : Google Berita
-LINK : https://news.google.com/?tab=wn&hl=id&gl=ID&ceid=ID:id
-DESC : Liputan berita terbaru yang komprehensif, dikumpulkan dari berbagai sumber di seluruh dunia oleh Google Berita.
+JUDUL : ara.apple.com - Apple Footer
+LINK : https://ara.apple.com/
+DESC : More ways to shop: Visit an Apple Store, call 1-800-MY-APPLE, or find a reseller.
 
 No : 16
-JUDUL : Berita | Berita Harian
-LINK : https://www.bharian.com.my/berita
-DESC : Projek PR1MA diteruskan satu berita gembira buat pembeli. Buruh asing kaut RM1,500 sehari jual air ketum ditahan. SUHAKAM akan serah laporan inkuiri kepada kerajaan. Pelepasan rama-rama terbanyak. Kes Isa Samad ke Mahkamah Tinggi. Tiga pelajar selamat dikebumikan.
+JUDUL : Manage your Apple ID - Apple
+LINK : https://appleid.apple.com/us/
+DESC : Your Apple ID is the account you use for all Apple services.
 
 No : 17
-JUDUL : Berita Politik Hukum Nasional Terbaru Hari Ini - Kompas.com
-LINK : https://news.kompas.com/
-DESC : Berita Terbaru Hari Ini, Menyajikan Kabar Terkini Indonesia dan Internasional Meliputi Berita Hukum, Politik, Nasional, Regional, Olahraga dan Sains
+JUDUL : ‎Apple Store on the App Store
+LINK : https://itunes.apple.com/us/app/apple-store/id375380948
+DESC : The Apple Store app provides a more personal way to shop for the latest Apple products and accessories. Get recommendations based on the Apple products you already own.
 
 No : 18
-JUDUL : detikNews - Berita hari ini di Indonesia dan Internasional
-LINK : https://news.detik.com/
-DESC : Info berita terbaru hari ini baik peristiwa, kecelakaan, kriminal, hukum, berita unik, Politik, dan liputan khusus di Indonesia dan Internasional
+JUDUL : Apple - Investor Relations - Stock Price
+LINK : https://investor.apple.com/investor-relations/stock-price/
+DESC : The stock information provided is for informational purposes only and is not intended for trading purposes. The stock information and charts are provided by Tickertech, a third party service, and Apple does not maintain or provide information directly to this service.
 
 No : 19
-JUDUL : Berita peristiwa dan politik terbaru di Indonesia dan luar negeri
-LINK : https://news.detik.com/berita
-DESC : Ulasan berita hari ini dari peristiwa, kecelakaan, kriminal, hukum, berita unik, Politik, dan liputan khusus di Indonesia dan Internasional
+JUDUL : Apple Developer
+LINK : https://developer.apple.com/
+DESC : Siri Shortcuts Offer shortcuts right when they're needed so users can quickly accomplish tasks from the lock screen, in Search, or from the Siri watch face.
 
 No : 20
-JUDUL : Berita Terkini, Berita Hari Ini Indonesia dan Dunia - Tempo.co
-LINK : http://www.tempo.co/
-DESC : Tempo.co - Situs Berita Terkini Indonesia, yang Menyajikan Berita Hari Ini, Mengenai Politik, Hukum, Nasional, Dunia, Bisnis, Bola, Seleb Hingga Travel
+JUDUL : Apple - Home | Facebook
+LINK : https://www.facebook.com/apple
+DESC : Apple. 11M likes. Product/Service. Behind the Mac, people with passion are changing the world for the better.
 
 No : 21
-JUDUL : Berita Terpopuler Liputan6.com
-LINK : https://m.liputan6.com/popular
-DESC : Liputan6.com - Berita hari ini Indonesia dan Dunia, kabar terbaru terkini. Situs berita terpercaya dari politik, peristiwa, bisnis, bola, tekno hingga gosip artis
+JUDUL : Apple - AAPL - Stock Price & News | The Motley Fool
+LINK : https://www.fool.com/quote/nasdaq/apple/aapl/
+DESC : Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium ...
 
 No : 22
-JUDUL : BeritaSatu.com (@Beritasatu) | Twitter
-LINK : https://twitter.com/Beritasatu
-DESC : The latest Tweets from BeritaSatu.com (@Beritasatu). Portal berita Indonesia terpercaya. Menghadirkan berita teraktual dari dalam dan luar negeri. http://t.co ...
+JUDUL : Apple | Technology | The Guardian
+LINK : https://www.theguardian.com/technology/apple
+DESC : Millions of us now have virtual assistants, in our homes and our pockets. Even children's toys are getting smart. But when we talk to them, who is listening?
 
 No : 23
-JUDUL : Berita Internasional Peristiwa Terbaru Hari Ini
-LINK : https://internasional.kompas.com/
-DESC : Kompas.com - Berita Internasional Terbaru Hari Ini, Menyajikan Kabar Berita Pemerintahan, Negara, Politik, Hukum. Kabar Harian Peristiwa Terkini di Dunia
+JUDUL : Apple (2018) - IMDb
+LINK : https://www.imdb.com/title/tt7245840/
+DESC : Directed by Jiankun Du. With Clayton Grimm, Jonathan Knight, Jonathon Knight, Danny Loecken. After finding out that there is only one apple left in the basket, a group of friend starts to expose their dark sides of human nature as the situation becomes dire.
 
 No : 24
-JUDUL : Kompas.com: Berita Terkini, Akurat & Terpercaya - Apps on ...
-LINK : https://play.google.com/store/apps/details?id=com.ertanto.kompas.official&hl=en_US
-DESC : Kompas.com - Berita Terkini, Akurat dan Terpercaya Lebih dari 50 tahun Kompas menemani Indonesia dengan memberikan berita-berita terkini, akurat dan terpercaya. Kini dapatkan update dan baca berita terkini, popular, akurat, dan terpercaya di versi terbaru aplikasi Kompas.com. Liputan berita dan informasi update disajikan oleh tim redaksi Kompas.com langsung di genggaman Anda.
-
-No : 1
-JUDUL : Berita Terkini Hari Ini, Kabar Akurat Terpercaya - Kompas.com
-LINK : https://www.kompas.com/
-DESC : Kompas.com - Berita Indonesia dan Dunia Terkini Hari Ini, Kabar Harian Terbaru Terpercaya Terlengkap Seputar Politik, Ekonomi, Travel, Teknologi, Otomotif, Bola
-
-No : 2
-JUDUL : Berita Terkini, Kabar Terbaru Hari Ini Indonesia dan ...
-LINK : https://www.merdeka.com/
-DESC : merdeka.com - Berita Politik, Ekonomi, Hukum, Kriminal, Olahraga, Sepak Bola, Teknologi, Otomotif, Artis di Indonesia dan Dunia
-
-No : 3
-JUDUL : detikcom - Informasi Berita Terupdate Hari Ini
-LINK : https://www.detik.com/
-DESC : Indeks berita terbaru hari ini dari peristiwa, kecelakaan, kriminal, hukum, berita unik, Politik, dan liputan khusus di Indonesia dan Internasional
-
-No : 4
-JUDUL : Berita (@BeritaAfroSoul) | Twitter
-LINK : https://twitter.com/beritaafrosoul
-DESC : The latest Tweets from Berita (@BeritaAfroSoul). God. Music. Love . Africa . for enquiries: bookings@beritaafrosoul.co.za. Africa
-
-No : 5
-JUDUL : Berita Hari Ini Terbaru Terkini - Kabar Harian Indonesia ...
-LINK : https://www.liputan6.com/
-DESC : Liputan6.com - Berita hari ini Indonesia dan Dunia, kabar terbaru terkini. Situs berita terpercaya dari politik, peristiwa, bisnis, bola, tekno hingga gosip artis
-
-No : 6
-JUDUL : detikcom - Berita Terbaru & Terlengkap - Apps on Google Play
-LINK : https://play.google.com/store/apps/details?id=org.detikcom.rss&hl=en_US
-DESC : detikcom is now out with a new design update. Install or update the latest detikcom app on your device to get the best news reading experience. Latest news, favorite topics, and videos are now all within easy reach. Choose Province on ""Regional News Channel"" make you easy to update regional news.
-
-No : 7
-JUDUL : What Does The Name Berita Mean?
-LINK : https://www.names.org/n/berita/about
-DESC : Fun Facts about the name Berita. How Popular is the name Berita? Berita is the 86,464 th most popular name of all time.; How many people with the first name Berita have been born in the United States?
-
-No : 8
-JUDUL : Okezone | Berita Terbaru | Berita Hari Ini | Berita Online
-LINK : https://www.okezone.com/
-DESC : Okezone Portal Berita Online Indonesia | Berita Terbaru Hari Ini Terkini Terhangat | Nasional Internasional Politik Ekonomi Olahraga Kesehatan Selebritis
-
-No : 9
-JUDUL : Berita Harian - bharian.com.my
-LINK : https://www.bharian.com.my/
-DESC : KOTA BHARU: Tengku Mahkota Kelantan, Dr Tengku Muhammad Faiz Petra, melangsungkan perkahwinannya dengan warga Sweden, Cik Sofie Louise Johansson di Istana Balai Besar Kota Bharu, malam ini.
-
-No : 10
-JUDUL : Berita - BBC News Indonesia
-LINK : https://www.bbc.com/indonesia
-DESC : Calon presiden Prabowo Subianto menyebut lembaga survei yang mengeluarkan quick count dengan keunggulan sementara Joko Widodo, sebagai 'tukang bohong' dan minta mereka pindah ke Antartika.
-
-No : 11
-JUDUL : Berita afrosoul - YouTube
-LINK : https://www.youtube.com/user/beritaafrosoul
-DESC : Nguwe Wedwa is Berita's first single of her much anticipated upcoming album due for release this April 2017. Enjoy the unplugged live version of this beautiful, haunting love song.
-
-No : 12
-JUDUL : Berita - Utusan Online
-LINK : http://www.utusan.com.my/berita
-DESC : IPOH 18 April - Angkatan Bersatu Anak Muda (Armada) Parti Pribumi Bersatu Malaysia (Bersatu) Perak hari ini membuat laporan polis bagi mendesak pihak berkuasa menyiasat penyebaran satu rakaman audio yang tular dalam media sosial mengenai seorang individu dipercayai exco kerajaan negeri, mengkritik pentadbiran Menteri Besar, Datuk Seri Ahmad Faizal Azumu.
-
-No : 13
-JUDUL : Berita Gosip Terbaru Dunia Hiburan Indonesia Dan Luar Negeri
-LINK : https://www.liputan6.com/showbiz
-DESC : Berita Hiburan Liputan6.com menyajikan kabar berita gosip artis terbaru, dunia musik KPOP, lagu dan Film Indonesia hari ini
-
-No : 14
-JUDUL : Berita Hari Ini - Berita Harian Terbaru Terkini dan ...
-LINK : https://www.viva.co.id/
-DESC : Situs Berita harian terkini yang menyajikan berita hari ini dan kabar terbaru seputar politik hingga berita lifestyle dan olahraga
-
-No : 15
-JUDUL : Google Berita
-LINK : https://news.google.com/?tab=wn&hl=id&gl=ID&ceid=ID:id
-DESC : Liputan berita terbaru yang komprehensif, dikumpulkan dari berbagai sumber di seluruh dunia oleh Google Berita.
-
-No : 16
-JUDUL : Berita | Berita Harian
-LINK : https://www.bharian.com.my/berita
-DESC : Projek PR1MA diteruskan satu berita gembira buat pembeli. Buruh asing kaut RM1,500 sehari jual air ketum ditahan. SUHAKAM akan serah laporan inkuiri kepada kerajaan. Pelepasan rama-rama terbanyak. Kes Isa Samad ke Mahkamah Tinggi. Tiga pelajar selamat dikebumikan.
-
-No : 17
-JUDUL : Berita Politik Hukum Nasional Terbaru Hari Ini - Kompas.com
-LINK : https://news.kompas.com/
-DESC : Berita Terbaru Hari Ini, Menyajikan Kabar Terkini Indonesia dan Internasional Meliputi Berita Hukum, Politik, Nasional, Regional, Olahraga dan Sains
-
-No : 18
-JUDUL : detikNews - Berita hari ini di Indonesia dan Internasional
-LINK : https://news.detik.com/
-DESC : Info berita terbaru hari ini baik peristiwa, kecelakaan, kriminal, hukum, berita unik, Politik, dan liputan khusus di Indonesia dan Internasional
-
-No : 19
-JUDUL : Berita peristiwa dan politik terbaru di Indonesia dan luar negeri
-LINK : https://news.detik.com/berita
-DESC : Ulasan berita hari ini dari peristiwa, kecelakaan, kriminal, hukum, berita unik, Politik, dan liputan khusus di Indonesia dan Internasional
-
-No : 20
-JUDUL : Berita Terkini, Berita Hari Ini Indonesia dan Dunia - Tempo.co
-LINK : http://www.tempo.co/
-DESC : Tempo.co - Situs Berita Terkini Indonesia, yang Menyajikan Berita Hari Ini, Mengenai Politik, Hukum, Nasional, Dunia, Bisnis, Bola, Seleb Hingga Travel
-
-No : 21
-JUDUL : Berita Terpopuler Liputan6.com
-LINK : https://m.liputan6.com/popular
-DESC : Liputan6.com - Berita hari ini Indonesia dan Dunia, kabar terbaru terkini. Situs berita terpercaya dari politik, peristiwa, bisnis, bola, tekno hingga gosip artis
-
-No : 22
-JUDUL : BeritaSatu.com (@Beritasatu) | Twitter
-LINK : https://twitter.com/Beritasatu
-DESC : The latest Tweets from BeritaSatu.com (@Beritasatu). Portal berita Indonesia terpercaya. Menghadirkan berita teraktual dari dalam dan luar negeri. http://t.co ...
-
-No : 23
-JUDUL : Berita Internasional Peristiwa Terbaru Hari Ini
-LINK : https://internasional.kompas.com/
-DESC : Kompas.com - Berita Internasional Terbaru Hari Ini, Menyajikan Kabar Berita Pemerintahan, Negara, Politik, Hukum. Kabar Harian Peristiwa Terkini di Dunia
-
-No : 24
-JUDUL : Kompas.com: Berita Terkini, Akurat & Terpercaya - Apps on ...
-LINK : https://play.google.com/store/apps/details?id=com.ertanto.kompas.official&hl=en_US
-DESC : Kompas.com - Berita Terkini, Akurat dan Terpercaya Lebih dari 50 tahun Kompas menemani Indonesia dengan memberikan berita-berita terkini, akurat dan terpercaya. Kini dapatkan update dan baca berita terkini, popular, akurat, dan terpercaya di versi terbaru aplikasi Kompas.com. Liputan berita dan informasi update disajikan oleh tim redaksi Kompas.com langsung di genggaman Anda.
-
-No : 1
-JUDUL : Berita Terkini Pemilu Pilpres Pileg Indonesia 2019 - Pemilu ...
-LINK : https://www.detik.com/pemilu/
-DESC : Pemungutan suara Pemilu 2019 memang telah usai, beberapa hari lalu. Namun, di balik pelaksanaan pesta demokrasi itu menyisakan penggalan kisah menegangkan. Upaya rekonsiliasi pasca-pilpres antarelite politik tengah menjadi perbincangan. Hal itu bertujuan untuk mengurangi tensi konflik yang terjadi ...
-
-No : 2
-JUDUL : PEMILU 2019 | Portal Berita dan Informasi Terkini Seputar ...
-LINK : https://www.pemilu.org/
-DESC : PEMILU.ORG adalah media portal berita PEMILU 2019. Berisi artikel dan informasi terkini seputar pemilihan umum 2019. Seputar kampanye calon presiden (capres), partai untuk menyambut pesat demokarasi di tahun 2019.
-
-No : 3
-JUDUL : Pemilu 2019 - merdeka.com
-LINK : https://www.merdeka.com/tag/pemilu-2019/
-DESC : Pemilu 2019. KPU Tuban Catat 2 Petugas KPPS Meninggal, 13 Orang Sakit karena Kelelahan. Dua petugas yang meninggal dunia adalah Edi Supandi (48), anggota KPPS yang bertugas di TPS 024 di Kelurahan Gedongombo, Kecamatan Semanding, Kabupaten Tuban. Kemudian Winoto, Ketua KPPS yang bertugas di TPS ...
-
-No : 4
-JUDUL : Pemilu - YouTube
-LINK : https://www.youtube.com/watch?v=ipZHBfIxh38
-DESC : Siapa yang salah dan siapa yg benar. Lagu Cinta Untuk KPU "172 SUARA" [Bukan Rhoma Irama - Parodi Lagu 135 Juta] - Duration: 3:37. Beny Hidayat92 95,661 views. New
-
-No : 5
-JUDUL : What does pemilu mean in Indonesian? - WordHippo
-LINK : https://www.wordhippo.com/what-is/the-meaning-of/indonesian-word-c603c328aaa5762e623a69a62e3e9a23a9237dae.html
-DESC : Need to translate "pemilu" from Indonesian? Here's what it means.
-
-No : 6
-JUDUL : Pemilu - YouTube
-LINK : https://www.youtube.com/watch?v=dkgJzKxGfmo
-DESC : Ricky 11IPA2-- Created using PowToon -- Free sign up at http://www.powtoon.com/ . Make your own animated videos and animated presentations for free. PowToon ...
-
-No : 7
-JUDUL : Pemilihan umum - Wikipedia bahasa Indonesia, ensiklopedia bebas
-LINK : https://id.wikipedia.org/wiki/Pemilihan_umum
-DESC : Pemilihan umum (disingkat Pemilu) adalah proses memilih seseorang untuk mengisi jabatan politik tertentu. Jabatan tersebut beraneka-ragam, mulai dari jabatan presiden/eksekutif, wakil rakyat/legislatif di berbagai tingkat pemerintahan, sampai kepala desa.Pada konteks yang lebih luas, Pemilu dapat juga berarti proses mengisi jabatan-jabatan seperti ketua OSIS atau ketua kelas, walaupun untuk ...
-
-No : 8
-JUDUL : Polling Pemilu 2019: Siapakah Presiden Republik Indonesia ...
-LINK : http://www.pemilu.com/
-DESC : Polling Pemilu 2019 Siapakah Presiden Republik Indonesia 2019-2024 Pilihanmu adalah polling online Pilpres 2019 yang diselenggarakan oleh PEMILU.com
-
-No : 9
-JUDUL : PEMILU 2019 - Pemilihan Umum Pesta Demokrasi Rakyat Indonesia
-LINK : http://www.pemilu.com/pemilu-2019/
-DESC : Pemilu 2019 sebagai puncak pesta demokrasi 5 tahunan tersebut akan dilaksanakan pada tanggal 17 April 2019 yang akan memilih para anggota dewan legislatif DPR RI, DPD RI dan DPRD serta akan memilih presiden dan wakil presiden. Pemilu 2019 akan tetap memakai metode e-voting seperti pada Pemilu 2014.
-
-No : 10
-JUDUL : MAKALAH PEMILU | Brian Manullang - Academia.edu
-LINK : https://www.academia.edu/17562645/MAKALAH_PEMILU
-DESC : Bahkan pemilu 2004 merupakan pemilu pertama kali di Indonesia dimana setiap warga negara Indonesia yang mempunyai hak pilih, dapat memilih langsung presiden dan wakilnya selain pemilu untuk memilih anggota DPR, DPRD Tingkat I, dan DPRD tingkat II. Selain itu, sejak pemilu 2004, juga dilakukan pemilihan Dewan Perwakilan Daerah (DPD).
-
-No : 11
-JUDUL : PEMILU: Undang - pemilu-kpu-bawaslu.blogspot.com
-LINK : https://pemilu-kpu-bawaslu.blogspot.com/2013/06/undang-undang-pemilu.html
-DESC : Berikut ini adalah daftar peraturan perundang-undangan yang mengatur tentang penyelenggaraan Pemilu sejak pemilu tahun 1955, pemilu tahun 1971, pemilu tahun 1977, pemilu tahun 1982, pemilu tahun 1987, pemilu tahun 1992, pemilu tahun 1997, pemilu tahun 1999, pemilu tahun 2004 dan pemilu tahun 2009.
-
-No : 12
-JUDUL : PEMILU - MSN Indonesia | Berita
-LINK : https://www.msn.com/id-id/berita/pemilu
-DESC : Berita Terkini Seputar Pemilu 2019. Real Count KPU Minggu Hingga Pukul 00.30 WIB. Data dalam Sistem Informasi Penghitungan Suara (Situng) milik Komisi Pemilihan Umum (KPU) sudah mencapai 44,1 persen.
-
-No : 13
-JUDUL : Pemilihan umum di Indonesia - Wikipedia bahasa Indonesia ...
-LINK : https://id.wikipedia.org/wiki/Pemilihan_umum_di_Indonesia
-DESC : Pemilihan umum (pemilu) di Indonesia pada awalnya ditujukan untuk memilih anggota lembaga perwakilan, yaitu DPR, DPRD Provinsi, dan DPRD Kabupaten/Kota.Setelah amendemen keempat UUD 1945 pada 2002, pemilihan presiden dan wakil presiden (pilpres), yang semula dilakukan oleh MPR, disepakati untuk dilakukan langsung oleh rakyat dan dari rakyat sehingga pilpres pun dimasukkan ke dalam rangkaian ...
-
-No : 14
-JUDUL : Pemilu 2019: Joko Widodo mengklaim dapat selamat dari ...
-LINK : https://www.bbc.com/indonesia/live/indonesia-47937047
-DESC : Dalam Pemilu 2019, ada 810.193 TPS di seluruh Indonesia, sehingga yang belum bisa menggelar pemungutan suara pada Rabu kemarin sekitar 0,28%, sebut KPU.
-
-No : 15
-JUDUL : KPU RI PEMILU 2019 - Apps on Google Play
-LINK : https://play.google.com/store/apps/details?id=com.kpuripemilu2019&hl=en
-DESC : Cek data pemilih, info kpu, Info Pemilu 2019. cek apakah kamu sebagai pemilih pada pemilu 2019!!! Terutama bagi yang pindah domisili, pemilih pemula, atau yang pindah TPS. Kalau kamu ternyata belum terdaftar , segera kirim data diri anda ke email layananpemilih@kpu.go.id . Data resmi dari KPU RI.
-
-No : 16
-JUDUL : 2019 Indonesian general election - Wikipedia
-LINK : https://en.wikipedia.org/wiki/2019_Indonesian_general_election
-DESC : Any ethical violations committed by either Bawaslu or the KPU were to be handled by the Elections Organizer Honor Council (Indonesian: Dewan Kehormatan Penyelenggara Pemilu, (DKPP)), which comprised one member from each body and five others recommended by the government.
-
-No : 1
-JUDUL : Berita Terkini Pemilu Pilpres Pileg Indonesia 2019 - Pemilu ...
-LINK : https://www.detik.com/pemilu/
-DESC : Pemungutan suara Pemilu 2019 memang telah usai, beberapa hari lalu. Namun, di balik pelaksanaan pesta demokrasi itu menyisakan penggalan kisah menegangkan. Upaya rekonsiliasi pasca-pilpres antarelite politik tengah menjadi perbincangan. Hal itu bertujuan untuk mengurangi tensi konflik yang terjadi ...
-
-No : 2
-JUDUL : PEMILU 2019 | Portal Berita dan Informasi Terkini Seputar ...
-LINK : https://www.pemilu.org/
-DESC : PEMILU.ORG adalah media portal berita PEMILU 2019. Berisi artikel dan informasi terkini seputar pemilihan umum 2019. Seputar kampanye calon presiden (capres), partai untuk menyambut pesat demokarasi di tahun 2019.
-
-No : 3
-JUDUL : Pemilu 2019 - merdeka.com
-LINK : https://www.merdeka.com/tag/pemilu-2019/
-DESC : Pemilu 2019. KPU Tuban Catat 2 Petugas KPPS Meninggal, 13 Orang Sakit karena Kelelahan. Dua petugas yang meninggal dunia adalah Edi Supandi (48), anggota KPPS yang bertugas di TPS 024 di Kelurahan Gedongombo, Kecamatan Semanding, Kabupaten Tuban. Kemudian Winoto, Ketua KPPS yang bertugas di TPS ...
-
-No : 4
-JUDUL : Pemilu - YouTube
-LINK : https://www.youtube.com/watch?v=ipZHBfIxh38
-DESC : Siapa yang salah dan siapa yg benar. Lagu Cinta Untuk KPU "172 SUARA" [Bukan Rhoma Irama - Parodi Lagu 135 Juta] - Duration: 3:37. Beny Hidayat92 95,661 views. New
-
-No : 5
-JUDUL : What does pemilu mean in Indonesian? - WordHippo
-LINK : https://www.wordhippo.com/what-is/the-meaning-of/indonesian-word-c603c328aaa5762e623a69a62e3e9a23a9237dae.html
-DESC : Need to translate "pemilu" from Indonesian? Here's what it means.
-
-No : 6
-JUDUL : Pemilu - YouTube
-LINK : https://www.youtube.com/watch?v=dkgJzKxGfmo
-DESC : Ricky 11IPA2-- Created using PowToon -- Free sign up at http://www.powtoon.com/ . Make your own animated videos and animated presentations for free. PowToon ...
-
-No : 7
-JUDUL : Pemilihan umum - Wikipedia bahasa Indonesia, ensiklopedia bebas
-LINK : https://id.wikipedia.org/wiki/Pemilihan_umum
-DESC : Pemilihan umum (disingkat Pemilu) adalah proses memilih seseorang untuk mengisi jabatan politik tertentu. Jabatan tersebut beraneka-ragam, mulai dari jabatan presiden/eksekutif, wakil rakyat/legislatif di berbagai tingkat pemerintahan, sampai kepala desa.Pada konteks yang lebih luas, Pemilu dapat juga berarti proses mengisi jabatan-jabatan seperti ketua OSIS atau ketua kelas, walaupun untuk ...
-
-No : 8
-JUDUL : Polling Pemilu 2019: Siapakah Presiden Republik Indonesia ...
-LINK : http://www.pemilu.com/
-DESC : Polling Pemilu 2019 Siapakah Presiden Republik Indonesia 2019-2024 Pilihanmu adalah polling online Pilpres 2019 yang diselenggarakan oleh PEMILU.com
-
-No : 9
-JUDUL : PEMILU 2019 - Pemilihan Umum Pesta Demokrasi Rakyat Indonesia
-LINK : http://www.pemilu.com/pemilu-2019/
-DESC : Pemilu 2019 sebagai puncak pesta demokrasi 5 tahunan tersebut akan dilaksanakan pada tanggal 17 April 2019 yang akan memilih para anggota dewan legislatif DPR RI, DPD RI dan DPRD serta akan memilih presiden dan wakil presiden. Pemilu 2019 akan tetap memakai metode e-voting seperti pada Pemilu 2014.
-
-No : 10
-JUDUL : MAKALAH PEMILU | Brian Manullang - Academia.edu
-LINK : https://www.academia.edu/17562645/MAKALAH_PEMILU
-DESC : Bahkan pemilu 2004 merupakan pemilu pertama kali di Indonesia dimana setiap warga negara Indonesia yang mempunyai hak pilih, dapat memilih langsung presiden dan wakilnya selain pemilu untuk memilih anggota DPR, DPRD Tingkat I, dan DPRD tingkat II. Selain itu, sejak pemilu 2004, juga dilakukan pemilihan Dewan Perwakilan Daerah (DPD).
-
-No : 11
-JUDUL : PEMILU: Undang - pemilu-kpu-bawaslu.blogspot.com
-LINK : https://pemilu-kpu-bawaslu.blogspot.com/2013/06/undang-undang-pemilu.html
-DESC : Berikut ini adalah daftar peraturan perundang-undangan yang mengatur tentang penyelenggaraan Pemilu sejak pemilu tahun 1955, pemilu tahun 1971, pemilu tahun 1977, pemilu tahun 1982, pemilu tahun 1987, pemilu tahun 1992, pemilu tahun 1997, pemilu tahun 1999, pemilu tahun 2004 dan pemilu tahun 2009.
-
-No : 12
-JUDUL : PEMILU - MSN Indonesia | Berita
-LINK : https://www.msn.com/id-id/berita/pemilu
-DESC : Berita Terkini Seputar Pemilu 2019. Real Count KPU Minggu Hingga Pukul 00.30 WIB. Data dalam Sistem Informasi Penghitungan Suara (Situng) milik Komisi Pemilihan Umum (KPU) sudah mencapai 44,1 persen.
-
-No : 13
-JUDUL : Pemilihan umum di Indonesia - Wikipedia bahasa Indonesia ...
-LINK : https://id.wikipedia.org/wiki/Pemilihan_umum_di_Indonesia
-DESC : Pemilihan umum (pemilu) di Indonesia pada awalnya ditujukan untuk memilih anggota lembaga perwakilan, yaitu DPR, DPRD Provinsi, dan DPRD Kabupaten/Kota.Setelah amendemen keempat UUD 1945 pada 2002, pemilihan presiden dan wakil presiden (pilpres), yang semula dilakukan oleh MPR, disepakati untuk dilakukan langsung oleh rakyat dan dari rakyat sehingga pilpres pun dimasukkan ke dalam rangkaian ...
-
-No : 14
-JUDUL : Pemilu 2019: Joko Widodo mengklaim dapat selamat dari ...
-LINK : https://www.bbc.com/indonesia/live/indonesia-47937047
-DESC : Dalam Pemilu 2019, ada 810.193 TPS di seluruh Indonesia, sehingga yang belum bisa menggelar pemungutan suara pada Rabu kemarin sekitar 0,28%, sebut KPU.
-
-No : 15
-JUDUL : KPU RI PEMILU 2019 - Apps on Google Play
-LINK : https://play.google.com/store/apps/details?id=com.kpuripemilu2019&hl=en
-DESC : Cek data pemilih, info kpu, Info Pemilu 2019. cek apakah kamu sebagai pemilih pada pemilu 2019!!! Terutama bagi yang pindah domisili, pemilih pemula, atau yang pindah TPS. Kalau kamu ternyata belum terdaftar , segera kirim data diri anda ke email layananpemilih@kpu.go.id . Data resmi dari KPU RI.
-
-No : 16
-JUDUL : 2019 Indonesian general election - Wikipedia
-LINK : https://en.wikipedia.org/wiki/2019_Indonesian_general_election
-DESC : Any ethical violations committed by either Bawaslu or the KPU were to be handled by the Elections Organizer Honor Council (Indonesian: Dewan Kehormatan Penyelenggara Pemilu, (DKPP)), which comprised one member from each body and five others recommended by the government.
-
-No : 17
-JUDUL : PPLN Den Haag
-LINK : https://pplndenhaag.org/
-DESC : Moeljo Wijono, Ketua PPLN Den Haag 2019 yang juga ketua PPLN pada pemilu 2014 dapat membandingkan bahwa partisipasi pemilih pada pemilu 2019 meningkat drastis. Tahun 2014, partisipasi warga dalam Pilpres yang datang ke TPS sebanyak 2,328 orang, sementara tahun 2019 sebanyak 4,530 orang.
-
-No : 18
-JUDUL : Berita Pilpres 2019 - Pemilu Indonesia | Liputan6.com
-LINK : https://www.liputan6.com/pilpres
-DESC : Dalam kesempatan itu, kata dia, pihaknya selain bersyukur pemilu berjalan lancar, juga berbelasungkawa dan mendoakan ratusan KPPS yang meninggal dunia. Pilpres 25 Apr 2019 07:12 Prabowo Minta Pendukungnya Tak Lengah dengan Kecurangan.
-
-No : 19
-JUDUL : GitHub - pyk/pemilu: A beautiful Ruby interface of Pemilu APIs
-LINK : https://github.com/pyk/pemilu
-DESC : pemilu . A beautiful Ruby interface of Pemilu APIs. IMPORTANT : This gem is no longer maintaned by me. Feel Free to fork and send PR. Update 9 Mar 2014. Developer Pemilu APIs has published a bunch of new excellent API endpoints, my planning is to released pemilu gem v2.0.0 to support all those APIs. so far i already implemented Pertanyaan API V1, see here. for the other APIs are in proccess.
-
-No : 20
-JUDUL : Pemilu 2019 - Visual Interaktif Kompas
-LINK : https://vik.kompas.com/pemilu2019/
-DESC : "Pemilu bukan hanya tanggung jawab penyelenggara. Masyarakat punya peran besar untuk kesuksesan Pemilu 2019, dengan aktif berpartisipasi dalam pengawasan setiap tahapan pemilu. Pada hari pemungutan 17 April 2019 datang ke TPS, gunakan hak pilih, dan jaga kedamaian pemilu dengan tidak menyebar hoaks dan ujaran kebencian".
-
-No : 21
-JUDUL : Berita Pemilu 2019 - Sumber Informasi Pilpres dan Pilkada Terkini
-LINK : https://www.beritapemilu.net/
-DESC : Kata Timses, "Skenario Tim Jokowi Bahwa Prabowo Dituding Manfaatkan Ulama" November 8, 2018. Jakarta, BERITA TENTANG PEMILU - Sejumlah partai pengusung Joko Widodo-Ma'ruf Amin menyebut Prabowo Subianto memanfatkan ulama jika benar 'draf aliansi' yang diungkapkan Ketum PBB Yusril Ihza Mahendra tidak pernah direspons.
-
-No : 22
-JUDUL : KPU - Portal Publikasi Pemilihan Umum 2019
-LINK : https://infopemilu.kpu.go.id/
-DESC : Penyelesaian Sengketa Hasil Pemilu DPR, DPD, DPRD, Provinsi dan DPRD Kabupaten / kota 23 Mei 2019 - 15 Juni 2019 Penyelesaian Sengketa Hasil Pemilu Presiden dan Wakil Presiden Jadwal menyusul Pentapan Perolehan Kursi dan Calon Terpilih Tanpa Permohonan Perselisihan Hasil Pemilu ...
-
-No : 23
-JUDUL : Pemilu 2019 Toronto
-LINK : https://pemilu2019toronto.com/
-DESC : PPLN Toronto. Panitia Pemilihan Umum Luar Negeri Wilayah Kerja RI - Toronto. Surat Kembali (Return To Sender)Jika Anda tidak menerima Surat Suara Pemilu 2019, dan terdaftar dalam daftar Return To Sender, Anda masih dapat menggunakan Surat Suara nya dengan cara datang ke TPS pada tanggal 13 April 2019 di KJRI Toronto, pukul 08.00 - 18.00.
-
-No : 24
-JUDUL : www.kpu.go.id
-LINK : https://www.kpu.go.id/index.php/pages/detail/2019/1081
-DESC : Apache/2.4.18 (Ubuntu) Server at kpu.go.id Port 443
+JUDUL : Apple - CNET
+LINK : https://www.cnet.com/apple/
+DESC : Apple Watch Series 4 vs. Galaxy Watch Active: What's the best smartwatch? Both are great fitness smartwatches, but the Galaxy Watch Active costs half the price of the Apple Watch. Does that make ...
 
 No : 25
-JUDUL : Indonesia's Kawal Pemilu - Open Data's Impact
-LINK : http://odimpact.org/case-indonesias-kawal-pemilu.html
-DESC : Kawal Pemilu ("guard the election," in Indonesian) was launched in the immediate aftermath of the 2014 presidential elections, as the country was riven by political polarization and the two leading contenders for the presidency traded allegations of vote rigging.
+JUDUL : Apple - definition of apple by The Free Dictionary
+LINK : https://www.thefreedictionary.com/apple
+DESC : the apple of your eye favourite, pick, choice, dear, pet, darling, beloved, idol, fave (informal), blue-eyed boy (informal) Her only son was the apple of her eye ...
 
 No : 26
-JUDUL : Laporan Hasil Penghitungan Suara Pemilu 2019 Ppln Sydney
-LINK : https://pemilusydney.org.au/
-DESC : Pemilu merupakan pilar utama dari sebuah demokrasi. Melalui Pemilu rakyat memilih wakilnya, selanjutnya para wakil rakyat ini diserahi mandat kedaulatan rakyat untuk mengurusi negara. Melalui Pemilu rakyat menunjukkan kedaulatannya dalam memilih pemimpin seperti Presiden dan Wakil Presiden.
+JUDUL : ‎FATHER OF 4 by Offset on Apple Music
+LINK : https://itunes.apple.com/us/album/father-of-4/1453940914
+DESC : It once felt like a breach of social contract to pick your favorite Migo: The Atlanta trio were great because they were great together. In the wake of 2018's Culture II, though, each member of Migos has struck out on their own: Quavo led the charge with QUAVO HUNCHO, with Takeoff's The Last Rocket close behind.
 
 No : 27
-JUDUL : pemilu - English translation - bab.la Indonesian-English ...
-LINK : https://en.bab.la/dictionary/indonesian-english/pemilu
-DESC : Context sentences for "pemilu" in English. These sentences come from external sources and may not be accurate. bab.la is not responsible for their content. Read more here. Indonesian Kemajuan dalam pemilu-- semua hal ini yang disebut jejak ringan.
-
-No : 28
-JUDUL : PPLN - Taipei 2019 - Panitia Pemilihan Luar Negeri Taipei
-LINK : http://pplntaipei2019.org/
-DESC : Pengumuman Live Streaming Pelaksanaan Pemilu Taiwan PPLN Taipei dan Petugas KPPSLN berkomitmen memberikan informasi yang seluas-luasnya terkait pelaksanaan pemilu di Taiwan, sebgaian data sedang kami kumpulkan mohon untuk bersabar dan jangan lupa gunakan hak pilih anda Live Streaming TPS 01 KDEI Read more…
+JUDUL : AAPL Stock Quote - Apple Inc. Common Stock Price - Nasdaq
+LINK : https://www.nasdaq.com/symbol/aapl
+DESC : AAPL Company Description. Apple (ticker symbol: AAPL) is one of the world's leading consumer electronics and personal computer companies.The Cupertino, California-based company was established in ...
 
 No : 1
-JUDUL : Berita Terkini Pemilu Pilpres Pileg Indonesia 2019 - Pemilu ...
-LINK : https://www.detik.com/pemilu/
-DESC : Pemungutan suara Pemilu 2019 memang telah usai, beberapa hari lalu. Namun, di balik pelaksanaan pesta demokrasi itu menyisakan penggalan kisah menegangkan. Upaya rekonsiliasi pasca-pilpres antarelite politik tengah menjadi perbincangan. Hal itu bertujuan untuk mengurangi tensi konflik yang terjadi ...
+JUDUL : Leo Horoscope: Daily & Today | Horoscope.com
+LINK : https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=5
+DESC : Get your free Leo horoscope and find out what the planets have predicted for your day, week, month and year. Browse through your daily horoscope today!
 
 No : 2
-JUDUL : PEMILU 2019 | Portal Berita dan Informasi Terkini Seputar ...
-LINK : https://www.pemilu.org/
-DESC : PEMILU.ORG adalah media portal berita PEMILU 2019. Berisi artikel dan informasi terkini seputar pemilihan umum 2019. Seputar kampanye calon presiden (capres), partai untuk menyambut pesat demokarasi di tahun 2019.
-
-No : 3
-JUDUL : Pemilu 2019 - merdeka.com
-LINK : https://www.merdeka.com/tag/pemilu-2019/
-DESC : Pemilu 2019. KPU Tuban Catat 2 Petugas KPPS Meninggal, 13 Orang Sakit karena Kelelahan. Dua petugas yang meninggal dunia adalah Edi Supandi (48), anggota KPPS yang bertugas di TPS 024 di Kelurahan Gedongombo, Kecamatan Semanding, Kabupaten Tuban. Kemudian Winoto, Ketua KPPS yang bertugas di TPS ...
+JUDUL : English ⇔ German Dictionary - leo.org: Start page
+LINK : https://dict.leo.org/german-english/
+DESC : LEO.org: Ihr Wörterbuch im Internet für English-German Übersetzungen, mit Forum, Vokabeltrainer und Sprachkursen. Im Web und als APP.
 
 No : 1
-JUDUL : Computer programming - Wikipedia
-LINK : https://en.wikipedia.org/wiki/Computer_programming
-DESC : Computer programming is the process of designing and building an executable computer program for accomplishing a specific computing task. Programming involves tasks such as: analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms in a chosen programming language (commonly referred to as coding).
-
-No : 2
-JUDUL : Programing - definition of programing by The Free Dictionary
-LINK : https://www.thefreedictionary.com/programing
-DESC : pro·gram (prō′grăm′, -grəm) n. 1. a. A listing of the order of events and other pertinent information for a public presentation. b. The presentation itself: a program of piano pieces. 2. A scheduled radio or television show. 3. An ordered list of events to take place or procedures to be followed ...
-
-No : 3
-JUDUL : Programming | Define Programming at Dictionary.com
-LINK : https://www.dictionary.com/browse/programming
-DESC : Programming definition, the act or process of planning or writing a program. See more.
-
-No : 4
-JUDUL : Computer programming | Computing | Khan Academy
-LINK : https://www.khanacademy.org/computing/computer-programming
-DESC : Learn how to program drawings, animations, and games using JavaScript & ProcessingJS, or learn how to create webpages with HTML & CSS. You can share whatever you create, explore what others have created and learn from each other!
-
-No : 5
-JUDUL : Learn C and C++ Programming - Cprogramming.com
-LINK : https://www.cprogramming.com/
-DESC : The best site for C and C++ programming. Popular, beginner-friendly C and C++ tutorials to help you become an expert!
-
-No : 6
-JUDUL : Programming | Definition of Programming by Merriam-Webster
-LINK : https://www.merriam-webster.com/dictionary/programming
-DESC : Programming definition is - the planning, scheduling, or performing of a program. How to use programming in a sentence.
-
-No : 7
-JUDUL : Programming - definition of programming by The Free Dictionary
-LINK : https://www.thefreedictionary.com/programming
-DESC : pro·gram·ming or pro·gram·ing (prō′grăm′ĭng, -grə-mĭng) n. 1. a. The designing, scheduling, or planning of a program, as in broadcasting. b. Broadcast programs considered as a group: the network's Thursday night programming. 2. The writing of a computer program. programming ...
-
-No : 8
-JUDUL : "Programming" versus "programing": which is preferred? - Page ...
-LINK : https://dictionarykiwi.com/2016/10/17/programming-versus-programing-which-is-preferred/103/
-DESC : When talking about programs and the other variations of the word "program", suddenly the question arises whether or not the "m" will double in other forms? For example, is it proper to say "programming" or "programing"? What about "programmed" versus "programed"? Is it a regional variation without any standard rules?
-
-No : 9
-JUDUL : programming • r/programming - reddit
-LINK : https://www.reddit.com/r/programming/
-DESC : /r/programming is a reddit for discussion and news about computer programming. Guidelines. Please keep submissions on topic and of high quality. Just because it has a computer in it doesn't make it programming. If there is no code in your link, it probably doesn't belong here.
-
-No : 10
-JUDUL : What is Programming? (video) | Khan Academy
-LINK : https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro
-DESC : Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer "languages," such as SQL, Java, Python, and C++.
-
-No : 11
-JUDUL : Programming Basics
-LINK : https://www.programmingbasics.org/en/
-DESC : Programming Basics requires Java 1.4 or later. Most computers already come with this program. If you are unsure whether you have this program or not, you can get the ...
-
-No : 12
-JUDUL : Learn Programming: Tutorials and Examples from Programiz
-LINK : https://www.programiz.com/
-DESC : Learn Java. Java is a popular general-purpose programming language and computing platform. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide.
-
-No : 13
-JUDUL : Programming Downloads - softpedia.com
-LINK : https://www.softpedia.com/get/Programming/
-DESC : Download software in the Programming category. Windows 10 64 bit / Windows 10 / Windows Server 2012 / Windows 2008 64 bit / Windows 2008 / Windows 2003 / Windows 8 64 bit / Windows 8 / Windows 7 ...
-
-No : 14
-JUDUL : Welcome to Python.org
-LINK : https://www.python.org/
-DESC : The official home of the Python Programming Language. Compound Data Types. Lists (known as arrays in other languages) are one of the compound data types that Python understands.
-
-No : 15
-JUDUL : Scratch - Imagine, Program, Share
-LINK : https://scratch.mit.edu/
-DESC : Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
-
-No : 16
-JUDUL : Program | Definition of Program by Merriam-Webster
-LINK : https://www.merriam-webster.com/dictionary/program
-DESC : c: the genes or sequences of DNA or RNA that are part of an organism or cell and encode or determine a process, trait, or behavior … a mouse in which a tiny but crucial bit of the genetic program has been eliminated. — Bruce Fellman also: a process, trait, or behavior determined by or as if by the genetic material of an organism Orb webs are marvels of geometry and construction.
-
-No : 17
-JUDUL : Program - Wikipedia
-LINK : https://en.wikipedia.org/wiki/Programming
-DESC : Look up programme, program, programming, or programmer in Wiktionary, the free dictionary.
-
-No : 18
-JUDUL : Programming: Online Courses by Harvard, MIT, Microsoft | edX
-LINK : https://www.edx.org/learn/computer-programming
-DESC : Online computer programming courses from top institutions. Learn Java, C++, Python, R, HTML and other programming languages with free courses from the best institutions. Join now.
+JUDUL : Indonesia - Wikipedia
+LINK : https://en.wikipedia.org/wiki/Indonesia
+DESC : Indonesia (/ ˌ ɪ n d ə ˈ n iː ʒ ə / IN-də-NEE-zhə, /-ˈ n iː z i ə /-⁠ NEE-zee-ə; Indonesian: [ɪndoˈnesia]), officially the Republic of Indonesia (Indonesian: Republik Indonesia [reˈpublik ɪndoˈnesia]), is a country in Southeast Asia, between the Indian and Pacific oceans. It is the world's largest island country, with more than seventeen thousand islands, and at 1,904,569 ...
 
 No : 1
-JUDUL : Computer programming - Wikipedia
-LINK : https://en.wikipedia.org/wiki/Computer_programming
-DESC : Computer programming is the process of designing and building an executable computer program for accomplishing a specific computing task. Programming involves tasks such as: analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms in a chosen programming language (commonly referred to as coding).
-
-No : 1
-JUDUL : What | Definition of What by Merriam-Webster
-LINK : https://www.merriam-webster.com/dictionary/what
-DESC : What definition is - —used as an interrogative expressing inquiry about the identity, nature, or value of an object or matter. How to use what in a sentence.
-
-No : 2
-JUDUL : WhatsApp Web
-LINK : https://web.whatsapp.com/
-DESC : Quickly send and receive WhatsApp messages right from your computer. Quickly send and receive WhatsApp messages right from your computer. WhatsApp Web. Browser not supported We recommend using WhatsApp with one of the following browsers: Google Chrome. Mozilla Firefox ...
-
-No : 1
-JUDUL : Berita Terkini Pemilu Pilpres Pileg Indonesia 2019 - Pemilu ...
-LINK : https://www.detik.com/pemilu/
-DESC : Pemungutan suara Pemilu 2019 memang telah usai, beberapa hari lalu. Namun, di balik pelaksanaan pesta demokrasi itu menyisakan penggalan kisah menegangkan. Upaya rekonsiliasi pasca-pilpres antarelite politik tengah menjadi perbincangan. Hal itu bertujuan untuk mengurangi tensi konflik yang terjadi ...
-
-No : 2
-JUDUL : PEMILU 2019 | Portal Berita dan Informasi Terkini Seputar ...
-LINK : https://www.pemilu.org/
-DESC : PEMILU.ORG adalah media portal berita PEMILU 2019. Berisi artikel dan informasi terkini seputar pemilihan umum 2019. Seputar kampanye calon presiden (capres), partai untuk menyambut pesat demokarasi di tahun 2019.
-
-No : 3
-JUDUL : Pemilu 2019 - merdeka.com
-LINK : https://www.merdeka.com/tag/pemilu-2019/
-DESC : Pemilu 2019. KPU Tuban Catat 2 Petugas KPPS Meninggal, 13 Orang Sakit karena Kelelahan. Dua petugas yang meninggal dunia adalah Edi Supandi (48), anggota KPPS yang bertugas di TPS 024 di Kelurahan Gedongombo, Kecamatan Semanding, Kabupaten Tuban. Kemudian Winoto, Ketua KPPS yang bertugas di TPS ...
-
-No : 4
-JUDUL : Pemilu - YouTube
-LINK : https://www.youtube.com/watch?v=ipZHBfIxh38
-DESC : Siapa yang salah dan siapa yg benar. Lagu Cinta Untuk KPU "172 SUARA" [Bukan Rhoma Irama - Parodi Lagu 135 Juta] - Duration: 3:37. Beny Hidayat92 95,661 views. New
-
-No : 1
-JUDUL : Berita Terkini Pemilu Pilpres Pileg Indonesia 2019 - Pemilu ...
-LINK : https://www.detik.com/pemilu/
-DESC : Pemungutan suara Pemilu 2019 memang telah usai, beberapa hari lalu. Namun, di balik pelaksanaan pesta demokrasi itu menyisakan penggalan kisah menegangkan. Upaya rekonsiliasi pasca-pilpres antarelite politik tengah menjadi perbincangan. Hal itu bertujuan untuk mengurangi tensi konflik yang terjadi ...
-
-No : 2
-JUDUL : PEMILU 2019 | Portal Berita dan Informasi Terkini Seputar ...
-LINK : https://www.pemilu.org/
-DESC : PEMILU.ORG adalah media portal berita PEMILU 2019. Berisi artikel dan informasi terkini seputar pemilihan umum 2019. Seputar kampanye calon presiden (capres), partai untuk menyambut pesat demokarasi di tahun 2019.
-
-No : 3
-JUDUL : Pemilu 2019 - merdeka.com
-LINK : https://www.merdeka.com/tag/pemilu-2019/
-DESC : Pemilu 2019. KPU Tuban Catat 2 Petugas KPPS Meninggal, 13 Orang Sakit karena Kelelahan. Dua petugas yang meninggal dunia adalah Edi Supandi (48), anggota KPPS yang bertugas di TPS 024 di Kelurahan Gedongombo, Kecamatan Semanding, Kabupaten Tuban. Kemudian Winoto, Ketua KPPS yang bertugas di TPS ...
-
-No : 4
-JUDUL : Pemilu - YouTube
-LINK : https://www.youtube.com/watch?v=ipZHBfIxh38
-DESC : Siapa yang salah dan siapa yg benar. Lagu Cinta Untuk KPU "172 SUARA" [Bukan Rhoma Irama - Parodi Lagu 135 Juta] - Duration: 3:37. Beny Hidayat92 95,661 views. New
-
-No : 1
-JUDUL : Berita Terkini Pemilu Pilpres Pileg Indonesia 2019 - Pemilu ...
-LINK : https://www.detik.com/pemilu/
-DESC : Pemungutan suara Pemilu 2019 memang telah usai, beberapa hari lalu. Namun, di balik pelaksanaan pesta demokrasi itu menyisakan penggalan kisah menegangkan. Upaya rekonsiliasi pasca-pilpres antarelite politik tengah menjadi perbincangan. Hal itu bertujuan untuk mengurangi tensi konflik yang terjadi ...
-
-No : 1
-JUDUL : Berita Terkini Pemilu Pilpres Pileg Indonesia 2019 - Pemilu ...
-LINK : https://www.detik.com/pemilu/
-DESC : Pemungutan suara Pemilu 2019 memang telah usai, beberapa hari lalu. Namun, di balik pelaksanaan pesta demokrasi itu menyisakan penggalan kisah menegangkan. Upaya rekonsiliasi pasca-pilpres antarelite politik tengah menjadi perbincangan. Hal itu bertujuan untuk mengurangi tensi konflik yang terjadi ...
-
-No : 2
-JUDUL : PEMILU 2019 | Portal Berita dan Informasi Terkini Seputar ...
-LINK : https://www.pemilu.org/
-DESC : PEMILU.ORG adalah media portal berita PEMILU 2019. Berisi artikel dan informasi terkini seputar pemilihan umum 2019. Seputar kampanye calon presiden (capres), partai untuk menyambut pesat demokarasi di tahun 2019.
-
-No : 3
-JUDUL : Pemilu 2019 - merdeka.com
-LINK : https://www.merdeka.com/tag/pemilu-2019/
-DESC : Pemilu 2019. KPU Tuban Catat 2 Petugas KPPS Meninggal, 13 Orang Sakit karena Kelelahan. Dua petugas yang meninggal dunia adalah Edi Supandi (48), anggota KPPS yang bertugas di TPS 024 di Kelurahan Gedongombo, Kecamatan Semanding, Kabupaten Tuban. Kemudian Winoto, Ketua KPPS yang bertugas di TPS ...
-
-No : 4
-JUDUL : Pemilu - YouTube
-LINK : https://www.youtube.com/watch?v=ipZHBfIxh38
-DESC : Siapa yang salah dan siapa yg benar. Lagu Cinta Untuk KPU "172 SUARA" [Bukan Rhoma Irama - Parodi Lagu 135 Juta] - Duration: 3:37. Beny Hidayat92 95,661 views. New
+JUDUL : Indonesia - Wikipedia
+LINK : https://en.wikipedia.org/wiki/Indonesia
+DESC : Indonesia (/ ˌ ɪ n d ə ˈ n iː ʒ ə / IN-də-NEE-zhə, /-ˈ n iː z i ə /-⁠ NEE-zee-ə; Indonesian: [ɪndoˈnesia]), officially the Republic of Indonesia (Indonesian: Republik Indonesia [reˈpublik ɪndoˈnesia]), is a country in Southeast Asia, between the Indian and Pacific oceans. It is the world's largest island country, with more than seventeen thousand islands, and at 1,904,569 ...
 
 No : 1
 JUDUL : Berita Terkini Pemilu Pilpres Pileg Indonesia 2019 - Pemilu ...
@@ -688,4 +198,49 @@ No : 9
 JUDUL : PEMILU 2019 - Pemilihan Umum Pesta Demokrasi Rakyat Indonesia
 LINK : http://www.pemilu.com/pemilu-2019/
 DESC : Pemilu 2019 sebagai puncak pesta demokrasi 5 tahunan tersebut akan dilaksanakan pada tanggal 17 April 2019 yang akan memilih para anggota dewan legislatif DPR RI, DPD RI dan DPRD serta akan memilih presiden dan wakil presiden. Pemilu 2019 akan tetap memakai metode e-voting seperti pada Pemilu 2014.
+
+No : 10
+JUDUL : MAKALAH PEMILU | Brian Manullang - Academia.edu
+LINK : https://www.academia.edu/17562645/MAKALAH_PEMILU
+DESC : Bahkan pemilu 2004 merupakan pemilu pertama kali di Indonesia dimana setiap warga negara Indonesia yang mempunyai hak pilih, dapat memilih langsung presiden dan wakilnya selain pemilu untuk memilih anggota DPR, DPRD Tingkat I, dan DPRD tingkat II. Selain itu, sejak pemilu 2004, juga dilakukan pemilihan Dewan Perwakilan Daerah (DPD).
+
+No : 11
+JUDUL : PEMILU: Undang - pemilu-kpu-bawaslu.blogspot.com
+LINK : https://pemilu-kpu-bawaslu.blogspot.com/2013/06/undang-undang-pemilu.html
+DESC : Berikut ini adalah daftar peraturan perundang-undangan yang mengatur tentang penyelenggaraan Pemilu sejak pemilu tahun 1955, pemilu tahun 1971, pemilu tahun 1977, pemilu tahun 1982, pemilu tahun 1987, pemilu tahun 1992, pemilu tahun 1997, pemilu tahun 1999, pemilu tahun 2004 dan pemilu tahun 2009.
+
+No : 12
+JUDUL : PEMILU - MSN Indonesia | Berita
+LINK : https://www.msn.com/id-id/berita/pemilu
+DESC : Berita Terkini Seputar Pemilu 2019. Real Count KPU Minggu Hingga Pukul 00.30 WIB. Data dalam Sistem Informasi Penghitungan Suara (Situng) milik Komisi Pemilihan Umum (KPU) sudah mencapai 44,1 persen.
+
+No : 13
+JUDUL : Pemilihan umum di Indonesia - Wikipedia bahasa Indonesia ...
+LINK : https://id.wikipedia.org/wiki/Pemilihan_umum_di_Indonesia
+DESC : Pemilihan umum (pemilu) di Indonesia pada awalnya ditujukan untuk memilih anggota lembaga perwakilan, yaitu DPR, DPRD Provinsi, dan DPRD Kabupaten/Kota.Setelah amendemen keempat UUD 1945 pada 2002, pemilihan presiden dan wakil presiden (pilpres), yang semula dilakukan oleh MPR, disepakati untuk dilakukan langsung oleh rakyat dan dari rakyat sehingga pilpres pun dimasukkan ke dalam rangkaian ...
+
+No : 1
+JUDUL : JavaScript.com
+LINK : https://www.javascript.com/
+DESC : JavaScript.com is a resource for the JavaScript community. You will find resources and examples for JavaScript beginners as well as support for JavaScript experts ...
+
+No : 2
+JUDUL : JavaScript Tutorial
+LINK : https://www.w3schools.com/Js/
+DESC : JavaScript and Java are completely different languages, both in concept and design. JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997. ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+
+No : 3
+JUDUL : How to enable JavaScript in your browser and why
+LINK : https://enable-javascript.com/
+DESC : Instructions on how to enable (activate) JavaScript in web browser and why.
+
+No : 4
+JUDUL : How to enable JavaScript in Windows
+LINK : https://support.microsoft.com/en-us/help/3135465/how-to-enable-javascript-in-windows
+DESC : This article describes step for users to allow all Web sites in the Internet zone to run JavaScript in Internet Explorer, Chrome, and Firefox.
+
+No : 5
+JUDUL : JavaScript - Wikipedia
+LINK : https://en.wikipedia.org/wiki/JavaScript
+DESC : A JavaScript engine (also known as JavaScript interpreter or JavaScript implementation) is an interpreter that interprets JavaScript source code and executes the script accordingly. The first JavaScript engine was created by Brendan Eich at Netscape, for the Netscape Navigator Web browser.
 

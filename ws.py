@@ -6,7 +6,7 @@ from subprocess import PIPE, Popen
 import re, sys
 
 q = sys.argv[1]
-print(q)
+
 engine = pyttsx3.init()
 engine.setProperty('voice', "indonesia")
 engine.setProperty('rate', 150)
